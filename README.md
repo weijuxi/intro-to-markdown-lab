@@ -1,5 +1,7 @@
 # Writing a Function in JavaScript
 
+![some alt text](https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
 
 ## 1. Basic syntax
@@ -22,7 +24,7 @@ const greet = (name) => {
 } 
 ```
 
-Tip: Functions often perform actions, so naming with a verb can make it clear what the function does. Examples include fetchData( ), calculateArea( ), or printReport( ). 
+>Tip: Functions often perform actions, so naming with a verb can make it clear what the function does. Examples include fetchData( ), calculateArea( ), or printReport( ). 
 
 ## 2. Calling a function
 
@@ -46,4 +48,5 @@ const total = addNums(2, 4);
 
 console.log(total) // Expected value: 6
 ```
-For more information on functions and how they are used in JS, check out the [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) docs.
+For more information on functions and how they are used in JS, check out the [MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions).
+
